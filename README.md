@@ -1,4 +1,4 @@
-# Digital Communication Systems Simulation
+# Communication Systems Simulation
 
 📡 MATLAB/Octave implementations of fundamental communication systems for **ECEN314-ECE233: Fundamentals of Communications** course project.
 
